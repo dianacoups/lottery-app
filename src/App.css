@@ -5,6 +5,10 @@ body {
   background-color: #f2f2f2;
 }
 
+iframe
+{
+    display: none;
+}
 nav {
   background-color: #d30a6b;
 }
