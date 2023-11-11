@@ -27,7 +27,9 @@ Here's a summary of the steps and actions taken in creating the staking smart co
 3. Creating a blank npx app
 4. Installing ethers 
 5. Creating constants for the project
-
+6. Writing the required structure to connect the wallet.
+7. Create .js files 1 per page and write  frontend and buttons logic in it
+8. Testing the result with number of test accounts
 
 ## To run the program use the following commands:
 * to download node_modules
